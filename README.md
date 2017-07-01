@@ -42,13 +42,9 @@ I'm pretty much making this up as I go along. In many cases, I don't know if I'm
 
 This is a standard Laravel project, so all standard processes should just work right out of the box:
 
-    git clone git@github.com:jijoel/vuetify-laravel-shopping-cart.git
+    git clone git@github.com:goldenmoster/vuetify-laravel-shopping-cart.git
     composer install
     php artisan migrate --seed
     yarn install
     npm run dev
 
-
-### Resources
-
-Thank you to https://github.com/matheusazzi/shop-vue for the inspiration and basic template.
